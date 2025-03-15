@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome%20to%&fontSize=70&textBg=false&desc=Youngin's%20Github&descAlign=50&descAlignY=65&section=header&reversal=false&fontAlign=50&fontAlignY=45&descSize=60)
 
 
-<h2>✨ Tech Stack </h2>
+<h2>✨ Stacks </h2>
 <div> <h3>Programming language</h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
